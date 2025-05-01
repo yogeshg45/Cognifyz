@@ -134,6 +134,6 @@ The dataset contains restaurant-related information, including:
 
 ---
 
-**Author**: [Your Name]\
+**Author**: Yogesh G
 Feel free to reach out for collaboration or queries!
 
